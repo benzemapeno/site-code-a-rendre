@@ -1,0 +1,315 @@
+header{
+    background-image: url(./trekking-store-main/images/paysage.png);
+    width: 1440px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.lien{
+  margin-left: 700px;
+  font-size:x-large;
+  margin-top: 50px;
+  
+  
+   
+    
+}
+.logo{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+    
+    
+    
+}
+.H{
+ margin-right: 150px;
+}
+.bi-cart-fill{
+    margin-left: 150px;
+    color: white;
+    
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    color: white;
+}
+.head{
+    display: flex;
+}
+p{
+    display: flex;
+    justify-content: center;
+    color: white;
+    opacity: 40%;
+}
+.fondgris{
+    height: 150px;
+    background-color: rgb(222, 219, 219);
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content:flex-start;
+}
+.form-check{
+    margin-left: 200px;
+   
+}
+.form-check1{
+    margin-left: 70px;
+}
+.form-check2{
+    margin-left: 70px;
+}
+.boutonmaron{
+    margin-left: 480px;
+    
+}
+input.btn{
+    background-color: rgb(174, 146, 117);
+    color: white;
+}
+.form-check-input:checked{
+    border-color: white;
+    background-color: rgb(174, 146, 117);
+
+}
+.pagearticle{
+    height: 100vh;
+    width: 1440px;
+    
+    
+}
+.pagemen{
+    display: flex;
+    margin-left: 200px;
+}
+input.men{
+    margin-left: 50px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+    margin-top: 31px;
+    width: 900px;
+    height: 50px;
+    border-width: 1px;
+    
+}
+h1{
+    margin-top: 50px;
+    
+}
+h2{
+    margin-left: 1215px;
+    color:rgb(174, 146, 117) ;
+    font-size: 15px;
+}
+h3{
+    margin-left: 1215px;
+    font-size: 15px;
+    color:rgb(174, 146, 117) ;
+
+}
+.article1{
+    display: flex;
+    
+}
+.t-shirt{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 200px;
+}
+.pantalon{
+    height: 400px;
+    background-color: rgb(222, 219, 219);
+    width: 312px;
+    margin-left: 50px;
+}
+.sac{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;  
+    margin-left: 50px; 
+}
+h4{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+img.ment{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+h5{
+    margin-top: 60px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;
+    
+}
+.prix{
+    display:flex ;
+}
+h6{
+    margin-left: 130px;
+    margin-top:60px ;
+}
+h4.p{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 15px;   
+}
+img.mon{
+    margin-left: 90px;
+    margin-top: 20px;   
+}
+.pri{
+    display: flex;
+}
+h6.r{
+    margin-left: 30px;
+    margin-top:35px ;
+}
+h5.r{
+    margin-top: 30px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;
+}
+.price{
+    display: flex;
+}
+img.bag{
+    margin-left: 70px;
+    margin-top: 30px;   
+}
+h6.e{
+    margin-left: 100px;
+    margin-top:40px ;   
+}
+h5.e{
+    margin-top: 40px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;  
+}
+.article2{
+    display: flex;
+    height: 500px;
+}
+.pagewomen{
+    display: flex;
+    margin-left: 200px;
+}
+input.women{
+    margin-right: 50px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: white;
+    margin-top: 31px;
+    width: 830px;
+    height: 50px;
+    border-width: 1px;
+    
+}
+h2.Z{
+    margin-left: 200px;   
+}
+h3.Z{
+    margin-left: 200px;
+}
+.doudoune{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 200px;
+}
+.chaussure{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 50px;
+
+}
+.polo{
+    background-color: rgb(222, 219, 219);
+    height: 400px;
+    width: 312px;
+    margin-left: 50px;   
+}
+.pagefemme{
+    display: flex;
+}
+img.q{
+    margin-left: 70px;
+    margin-top: 30px;   
+}
+h6.n{
+    margin-left: 100px;
+    margin-top:55px ;   
+}
+h5.n{
+    margin-top: 55px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;  
+}
+.prixe{
+    display: flex;
+}
+img.a{
+    margin-left: 70px;
+    margin-top: 70px;   
+}
+h6.y{
+    margin-left:50px;
+    margin-top:90px ;   
+}
+h5.y{
+    margin-top: 90px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;  
+}
+.prixee{
+    display: flex;
+}
+img.b{
+    margin-left: 50px;
+    margin-top: 10px;   
+}
+h6.x{
+    margin-left:120px;
+    margin-top:60px ;   
+}
+h5.x{
+    margin-top: 60px;
+    margin-left: 20px;
+    color:rgb(174, 146, 117) ;  
+}
+.pr{
+    display: flex;
+}
+.about{
+    height: 500px;
+    background-color: rgb(169, 141, 104);
+}
+.aboutus{
+    display: flex;
+    width: 700px;
+    border: 1px solid rgb(90, 76, 58);
+    margin-left: 350px;
+    height: 300px;
+    
+}
+h6.titre{
+    margin-left: 300px;
+    color: rgb(90, 76, 58);
+
+}
